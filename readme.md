@@ -1,0 +1,1 @@
+You're probably looking for the Metafor support documentation, which you can find [right here](https://github.com/metaforsoftware/docs/wiki).
